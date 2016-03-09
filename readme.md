@@ -1,7 +1,7 @@
-thought about lingustics and complex system
+thoughts about lingustics and complex system
 ======================
 
-> **notice:** I have thought it for many years,but haven't generalize any. Yet I decide to write it out though MUST have huge huge huge bugs....just a new baby of my conceptions.....x_x
+> **notice:** I have thought it for many years, but haven't generalize any. Yet I decide to write it out though it MUST have huge huge huge bugs....just a new baby of my conceptions.....x_x
 
 - lingustics reflects the real world
 
