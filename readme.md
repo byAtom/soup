@@ -9,6 +9,6 @@ thought about lingustics and complex system
 
 - neuro-system, that decide our daily behavior, is the complex system
 
-- all I want is to describe how fantesy the world is, how it strutured,
+- all I want is to describe how fantasy the world is, how it strutured,
 
 - wirte in mrakdown temporary
